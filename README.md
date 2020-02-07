@@ -30,3 +30,5 @@ How do you analyze data when you have multiple independent variables influencing
 4-Polynomial Regression
 How to analyze data when there is a polynomial relation to X and Z. If your dependent variable increases exponentionally , this is your best bet. 
 
+5-Logistic Regression
+A form of linear regression, logistic regression finds the best fitting line between two binary options. Based on probability, the built in functions make classifications based on whether the object is closer to one binary choice or the other. 
